@@ -18,6 +18,6 @@ and after doing all this, you can run :
 
 python manage.py runserver
 
-and then visit localhosy:8000/blog/ in your browser, you should see the blog home page.
+and then visit localhost:8000/blog/ in your browser, you should see the blog home page.
 
 Thanks. 
